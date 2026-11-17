@@ -59,7 +59,7 @@ Funciona sem chave, mas a cota é compartilhada por IP. Se começar a aparecer
 GOOGLE_BOOKS_API_KEY=sua_chave
 ```
 
-## Próximos passos sugeridos
+## Meta das próximas funções
 
 - Cronômetro de leitura dentro do app (em vez de digitar os minutos)
 - Metas anuais e gráficos de ritmo ao longo do tempo
